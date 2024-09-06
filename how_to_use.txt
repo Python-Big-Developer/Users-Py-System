@@ -1,0 +1,14 @@
+How to use the Users Library:
+
+Functions:
+Adding a user: create_user(username)
+Deleting a user: delte_user(username)
+Editing a user: edit_user(username, new_username, new_id)
+
+How to refer to lists and functions?
+Users.name_of_function_or_list
+
+What lists are in this library?
+Logs - Stores the logs for the entire library.
+USERNAMES - Stores the names of created users.
+IDs - Stores the IDs of created users.
